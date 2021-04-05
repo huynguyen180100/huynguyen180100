@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Nguyen Thai Huu Huy
-- 👀 I’m interested in
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me 
+- 👀 I’m interested in ESP,Data Science
 
 <!---
 huynguyen180100/huynguyen180100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
