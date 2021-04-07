@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Huy
 #### I am studying in Ho Chi Minh city University of Technology 
 -I am interesting in Embedded System Programming, Data Science
+
 -I love to play guitar 
 
 Skills: C / Python
