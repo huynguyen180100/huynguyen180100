@@ -4,7 +4,7 @@
 
 -I love to play guitar 
 
-Skills: C / Python
+
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on with everyone  
