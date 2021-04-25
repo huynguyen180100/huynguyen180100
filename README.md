@@ -19,8 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyen180100)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=huynguyen180100)  
-
+![GitHub Activity Graph](<img src="https://github-readme-stats.vercel.app/api?username=huynguyen180100&show_icons=true&theme=radical&include_all_commits=true">)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=huynguyen180100)  
 
 ![Profile views](https://gpvc.arturio.dev/huynguyen180100)  
