@@ -2,10 +2,6 @@
 #### I am studying in Ho Chi Minh city University of Technology 
 -I am interesting in Data Science, Machine Learning
 
--I love to play guitar 
-
-
-
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on with everyone  
 - 📫 How to reach me: huuhuy1801@gmail.com 
