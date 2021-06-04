@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Huy
-#### I am studying in Ho Chi Minh city University of Technology 
--I am interesting in Data Science, Machine Learning
-
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on with everyone  
+-I am interesting in Data Science, Image Processing
 - 📫 How to reach me: huuhuy1801@gmail.com 
 
   #### 👨🏻‍💻 Languages and Tools <br />
