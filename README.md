@@ -10,7 +10,7 @@
   #### Contact with me via <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/huynth1801)  [<img src='https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/huy-nguyen-085382206/)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyen180100)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynth1801)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
