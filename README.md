@@ -8,7 +8,7 @@
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
    <code><img height="40" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png"></code>
-   <code><img height="40" src="https://image.emojisky.com/532/4458532-middle.png"></code>
+   <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAzpvFUIPckH_XcseDrsg8a_nE53PUZU8tbA&usqp=CAU"></code>
   #### Contact with me via <br />
      [<img src='https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/huy-nguyen-085382206/)    
 
