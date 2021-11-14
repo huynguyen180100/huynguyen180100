@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Huy
--I am interesting in Data Science, Image Processing
 - 📫 How to reach me: huuhuy1801@gmail.com 
 
   #### 👨🏻‍💻 Languages and Tools <br />
